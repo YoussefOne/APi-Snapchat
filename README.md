@@ -1,7 +1,7 @@
 # APi-Snapchat
 For programmers
 -
-There are 5 files that contain api snapchat
+-There are 5 files that contain api snapchat
 -1 API-login 
 -2 API-add-friend
 -3 API-reporting
